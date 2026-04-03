@@ -109,16 +109,5 @@ This project demonstrates the following beginner cybersecurity and networking co
 
 ---
 
-## Possible Improvements
-
-- Add UDP scanning support
-- Add banner grabbing (read what the service sends back on connect)
-- Save results to a file
-- Add a progress bar
-- Accept port range as a command-line argument instead of hardcoding it
-
----
-
 ## Author
-
 Built as a beginner cybersecurity project to learn port scanning fundamentals.
